@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Julie Ann Oribio Basa
 
-🎓 **Computer Engineering Student** at [Universidad Politécnica de Madrid](https://www.upm.es/)
+🎓 **IT Engineering Student** at [Universidad Politécnica de Madrid](https://www.upm.es/)
 
 💡 **Aspiring Project Manager** with a passion for technology and innovation
 
